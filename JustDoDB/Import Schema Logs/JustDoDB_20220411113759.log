@@ -1,0 +1,76 @@
+4/11/2022 4:37:59 PM	This log contains information about the import schema operation into project 'JustDoDB' on computer 'DESKTOP-VEBJCUH' by user 'Victor-PC'.
+4/11/2022 4:37:59 PM	Import of database schema has started.
+4/11/2022 4:38:03 PM	Gathering database options
+4/11/2022 4:38:03 PM	Gathering users
+4/11/2022 4:38:03 PM	Gathering roles
+4/11/2022 4:38:03 PM	Gathering application roles
+4/11/2022 4:38:03 PM	Gathering role memberships
+4/11/2022 4:38:03 PM	Gathering filegroups
+4/11/2022 4:38:03 PM	Gathering full-text catalogs
+4/11/2022 4:38:03 PM	Gathering assemblies
+4/11/2022 4:38:03 PM	Gathering certificates
+4/11/2022 4:38:03 PM	Gathering asymmetric keys
+4/11/2022 4:38:03 PM	Gathering symmetric keys
+4/11/2022 4:38:03 PM	Gathering encrypted symmetric keys
+4/11/2022 4:38:03 PM	Gathering schemas
+4/11/2022 4:38:03 PM	Gathering XML schema collections
+4/11/2022 4:38:03 PM	Gathering user-defined data types
+4/11/2022 4:38:03 PM	Gathering user-defined types
+4/11/2022 4:38:03 PM	Gathering table types
+4/11/2022 4:38:03 PM	Gathering unique keys for table types
+4/11/2022 4:38:03 PM	Gathering primary keys for table types
+4/11/2022 4:38:03 PM	Gathering check constraints for table types
+4/11/2022 4:38:03 PM	Gathering default constraints for table types
+4/11/2022 4:38:03 PM	Gathering partition functions
+4/11/2022 4:38:03 PM	Gathering partition schemes
+4/11/2022 4:38:03 PM	Gathering functions
+4/11/2022 4:38:03 PM	Gathering encrypted functions
+4/11/2022 4:38:03 PM	Gathering aggregates
+4/11/2022 4:38:03 PM	Gathering procedures
+4/11/2022 4:38:03 PM	Gathering encrypted procedures
+4/11/2022 4:38:03 PM	Gathering tables
+4/11/2022 4:38:03 PM	Gathering primary keys
+4/11/2022 4:38:03 PM	Gathering unique constraints
+4/11/2022 4:38:03 PM	Gathering foreign keys
+4/11/2022 4:38:03 PM	Gathering default constraints
+4/11/2022 4:38:03 PM	Gathering check constraints
+4/11/2022 4:38:03 PM	Gathering views
+4/11/2022 4:38:03 PM	Gathering encrypted views
+4/11/2022 4:38:03 PM	Gathering indexes
+4/11/2022 4:38:03 PM	Gathering statistics
+4/11/2022 4:38:03 PM	Gathering full-text index stoplists
+4/11/2022 4:38:03 PM	Gathering search property lists
+4/11/2022 4:38:03 PM	Gathering search properties
+4/11/2022 4:38:03 PM	Gathering full-text indexes
+4/11/2022 4:38:03 PM	Gathering column store indexes
+4/11/2022 4:38:03 PM	Gathering spatial indexes
+4/11/2022 4:38:03 PM	Gathering XML indexes
+4/11/2022 4:38:03 PM	Gathering Selective XML indexes
+4/11/2022 4:38:03 PM	Gathering encrypted triggers
+4/11/2022 4:38:03 PM	Gathering triggers
+4/11/2022 4:38:03 PM	Gathering encrypted and clr ddl triggers
+4/11/2022 4:38:03 PM	Gathering ddl triggers
+4/11/2022 4:38:03 PM	Gathering synonyms
+4/11/2022 4:38:03 PM	Gathering defaults
+4/11/2022 4:38:03 PM	Gathering data constraint uddt bindings
+4/11/2022 4:38:03 PM	Gathering rules
+4/11/2022 4:38:03 PM	Gathering data constraint uddt bindings
+4/11/2022 4:38:03 PM	Gathering message types
+4/11/2022 4:38:03 PM	Gathering queues
+4/11/2022 4:38:03 PM	Gathering contracts
+4/11/2022 4:38:03 PM	Gathering services
+4/11/2022 4:38:03 PM	Gathering event notifications
+4/11/2022 4:38:03 PM	Gathering remote service bindings
+4/11/2022 4:38:03 PM	Gathering broker priorities
+4/11/2022 4:38:03 PM	Gathering signatures
+4/11/2022 4:38:03 PM	Gathering data compression options
+4/11/2022 4:38:03 PM	Gathering sequence types
+4/11/2022 4:38:03 PM	Gathering extended properties
+4/11/2022 4:38:03 PM	Gathering credentials
+4/11/2022 4:38:03 PM	Gathering logins
+4/11/2022 4:38:03 PM	Gathering server audits
+4/11/2022 4:38:03 PM	Scanning project for duplicate elements
+4/11/2022 4:38:03 PM	Finished duplicate element processing
+4/11/2022 4:38:04 PM	Finished importing database.
+4/11/2022 4:38:04 PM	A summary of the import was saved to the following location: C:\Users\Victor-PC\source\repos\JustDo\JustDoDB\Import Schema Logs\JustDoDB_20220411113759.log
+4/11/2022 4:38:04 PM	Click Finish to continue...
